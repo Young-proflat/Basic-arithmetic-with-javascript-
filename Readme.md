@@ -1,0 +1,1 @@
+<p>it a basic html with combination of javascript on how to use mathematical operator <p>
